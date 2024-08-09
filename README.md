@@ -1,21 +1,42 @@
-### 정보처리기사 필기 오답노트 정리
+##### 시험 일정
 
-#
+- 원서접수 : 2024.06.18.(화) ~ 2024.06.21.(금)
+- 필기시험 : 2024.07.05.(금) ~ 2024.07.27.(토)
+- 합격자발표 : 2024.08.07.(수)
 
-> #### 2023년 5월 기출문제
-###### <a href="https://github.com/minyoungovo/Engineer-Information-Processing/blob/main/2023기출문제/2023년 5월/1과목.md">2023년 05월-1과목</a><br/>
-###### <a href="https://github.com/minyoungovo/Engineer-Information-Processing/blob/main/2023기출문제/2023년 5월/2과목.md">2023년 05월-2과목</a><br/>
-###### <a href="https://github.com/minyoungovo/Engineer-Information-Processing/blob/main/2023기출문제/2023년 5월/3과목.md">2023년 05월-3과목</a><br/>
-###### <a href="https://github.com/minyoungovo/Engineer-Information-Processing/blob/main/2023기출문제/2023년 5월/4과목.md">2023년 05월-4과목</a><br/>
-###### <a href="https://github.com/minyoungovo/Engineer-Information-Processing/blob/main/2023기출문제/2023년 5월/5과목.md">2023년 05월-5과목</a><br/>
 
-#
+##### 시험 준비
 
-> #### 2023년 2월 기출문제
-###### <a href="https://github.com/minyoungovo/Engineer-Information-Processing/blob/main/2023기출문제/2023년 2월/1과목.md">2023년 02월-1과목</a><br/>
-###### <a href="https://github.com/minyoungovo/Engineer-Information-Processing/blob/main/2023기출문제/2023년 2월/2과목.md">2023년 02월-2과목</a><br/>
-###### <a href="https://github.com/minyoungovo/Engineer-Information-Processing/blob/main/2023기출문제/2023년 2월/3과목.md">2023년 02월-3과목</a><br/>
-###### <a href="https://github.com/minyoungovo/Engineer-Information-Processing/blob/main/2023기출문제/2023년 2월/4과목.md">2023년 02월-4과목</a><br/>
-###### <a href="https://github.com/minyoungovo/Engineer-Information-Processing/blob/main/2023기출문제/2023년 2월/5과목.md">2023년 02월-5과목</a><br/>
+- 준비기간 : 2024.06.10 ~ 2024.07.27 
+- 시험 날짜 : 2024.7.27(토) 14:10
+- 시험 장소 : 한국산업인력공단
 
+
+##### 시험 후기
+
+**점수 : 71점**<br/>
+> 1과목 : 80점 (16/20) <br/>
+> 2과목 : 70점 (14/20)  <br/>
+> 3과목 :  80점 (16/20)  <br/>
+> 4과목 : 80점 (16/20)  <br/>
+> 5과목 : 45점 (9/20) 
+
+- 1~3과목까지는 기출에서 많이 나옴
+- 4과목은 C언어나 파이썬 부분이 기출에서 나오지 않은 유형이었음
+- 5과목은 기출에서 나온 게 정말 적고 처음 보는 게 많았음 신기술 정의 부분은 1-2문제 나온 듯
+
+
+##### **구매한 책**
+- 시나공 정보처리기사 필기 기출문제집
+- 2024 이기적 정보처리기사 필기 기출문제 1200제+핵심마인드맵
+
+
+### 기출 문제
+- 2020~2022년 기출 2-3회정도
+- 이기적/시나공/해커스 2024년도 예상 기출 1~2회정도
+
+> **기출 사이트**
+- https://www.comcbt.com/
+- https://www.cbtbank.kr/
+- https://www.machuda.kr/
 
